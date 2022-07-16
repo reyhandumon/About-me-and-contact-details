@@ -5,10 +5,11 @@ body {
   color: #40514E;
 }
 .rh-logo {
+  height: 75px;
   position: relative;
   display: inline-block;
-  margin-right: 1400px;
-  height: 100px;
+  right: 700px;
+  bottom: 85px;
 }
 .rh2-logo {
   height: 40px;
