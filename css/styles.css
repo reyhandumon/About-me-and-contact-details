@@ -4,7 +4,16 @@ body {
   font-size: 1em;
   color: #40514E;
 }
-
+.rh-logo {
+  position: relative;
+  display: inline-block;
+  margin-right: 1400px;
+  margin-top: 0;
+  height: 100px;
+}
+.rh2-logo {
+  height: 40px;
+}
 p {
   line-height: 2;
 }
