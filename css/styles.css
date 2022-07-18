@@ -4,6 +4,11 @@ body {
   font-size: 1em;
   color: #40514E;
 }
+
+.hey {
+  margin: 0;
+}
+
 .sun {
   position: relative;
   display: inline-block;
@@ -11,22 +16,27 @@ body {
   right: 300px;
   bottom: 100px;
 }
+
 .rh-logo {
   height: 50px;
   position: relative;
   right: 700px;
   bottom: 85px;
 }
+
 .rh2-logo {
   height: 40px;
 }
+
 p {
   line-height: 2;
 }
+
 .h2a {
   position: relative;
   bottom: 200px;
 }
+
 .top-h2 {
   font-size: 2.5rem;
 }
@@ -54,6 +64,12 @@ hr {
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
+}
+
+.profile {
+  background-color: #CEE5D0;
+  position: relative;
+  bottom: 100px;
 }
 
 h1 {
@@ -106,6 +122,7 @@ h3 {
 .p1 {
   width: 40%;
   margin: auto;
+  padding-bottom: 100px;
 }
 
 .p2 {
@@ -113,9 +130,33 @@ h3 {
   margin: 40px auto 60px;
 }
 
+.hr1 {
+  position: relative;
+  bottom: 220px;
+}
+
+.skills {
+  background-color: #EAF6F6;
+  position: relative;
+  bottom: 310px;
+}
+
+.hr2 {
+  position: relative;
+  bottom: 400px;
+}
+
+.h2-myskills {
+  padding-top: 100px;
+}
+
 .myimage1 {
   width: 300px;
-  padding-top: 2rem;
+  padding-top: 100px;
+}
+
+.talents {
+  padding-bottom: 120px;
 }
 
 .bass-image {
@@ -138,7 +179,7 @@ h3 {
 
 .get {
   margin: 0;
-  padding-top: 2rem;
+  padding-top: 100px;
 }
 
 .sample1 {
@@ -149,11 +190,16 @@ h3 {
 
 .contact-me {
   margin: 0 0 75px;
+  background-color: #DFE8CC;
+  position: relative;
+  bottom: 520px;
 }
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 50px 0;
+  position: relative;
+  bottom: 500px
 }
 
 .copyright {
